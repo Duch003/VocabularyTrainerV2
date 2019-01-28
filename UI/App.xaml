@@ -1,0 +1,22 @@
+﻿<Application x:Class="UI.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:UI">
+    <Application.Resources>
+         <ResourceDictionary>
+             <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary>
+                    <local:Bootstrapper x:Key="Bootstrapper"/>
+                </ResourceDictionary>
+                <ResourceDictionary Source="StyleSheets/ButtonStyleSheet.xaml"></ResourceDictionary>
+                 <ResourceDictionary Source="StyleSheets/TextBlockStyleSheet.xaml"></ResourceDictionary>
+                 <ResourceDictionary Source="StyleSheets/DataGridStyleSheet.xaml"></ResourceDictionary>
+                 <ResourceDictionary Source="StyleSheets/LabelStyleSheet.xaml"></ResourceDictionary>
+                 <ResourceDictionary Source="StyleSheets/ComboBoxStyleSheet.xaml"></ResourceDictionary>
+                <ResourceDictionary Source="StyleSheets/TextBoxStyleSheet.xaml"></ResourceDictionary>
+                 <ResourceDictionary Source="StyleSheets/CheckBoxStyleSheet.xaml"></ResourceDictionary>
+                <ResourceDictionary/>
+             </ResourceDictionary.MergedDictionaries>
+         </ResourceDictionary>
+    </Application.Resources>
+</Application>

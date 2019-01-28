@@ -1,0 +1,67 @@
+﻿<UserControl x:Class="UI.Views.InputOutputView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UI.Views"
+             mc:Ignorable="d" Background="SlateGray"
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="20"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="20"></ColumnDefinition>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="20"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        
+        <!--Row 1-->
+        <TextBlock Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="3" Style="{StaticResource TextBlockHeaderStyle}">Output operations</TextBlock>
+        
+        <!--Row 2-->
+        <TextBlock Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="3" Style="{StaticResource TextBlockDescriptionStyle}">Select the file where You want to save all records from database. Records can be used on other computer where database can't be created.</TextBlock>
+
+        <!--Row 3-->
+        <Button x:Name="SelectPathToSave" Grid.Row="3" Grid.Column="1" Style="{StaticResource IOWindowButtonStyle}">Select path</Button>
+        <TextBlock x:Name="SelectedPathToSave" Grid.Row="3" Grid.Column="2" TextWrapping="Wrap" MinWidth="450"></TextBlock>
+        <Button x:Name="SaveRecords" Grid.Row="3" Grid.Column="3" Style="{StaticResource IOWindowButtonStyle}">Save records</Button>
+
+        <!--Row 4-->
+        <TextBlock Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="3" Style="{StaticResource TextBlockHeaderStyle}">Input operations</TextBlock>
+
+        <!--Row 5-->
+        <TextBlock Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="3" Style="{StaticResource TextBlockDescriptionStyle}">Choose the database .xml file and load records to use them locally or to load new records to database. All records will appear in table below.</TextBlock>
+
+        <!--Row 6-->
+        <Button x:Name="SelectPathToLoad" Grid.Row="6" Grid.Column="1" Style="{StaticResource IOWindowButtonStyle}">Select path</Button>
+        <TextBlock x:Name="SelectedPathToLoad" Grid.Row="6" Grid.Column="2" TextWrapping="Wrap" MinWidth="450"></TextBlock>
+        <Button x:Name="LoadRecords" Grid.Row="6" Grid.Column="3" Style="{StaticResource IOWindowButtonStyle}">Load records</Button>
+        
+        <!--Row 7-->
+        <DataGrid x:Name="RepositoryView" Grid.Row="7" Grid.Column="1" Grid.ColumnSpan="2" Grid.RowSpan="3" Style="{StaticResource DataGridDefaultStyle}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Polish" Binding="{Binding Path=Polish}"></DataGridTextColumn>
+                <DataGridTextColumn Header="English" Binding="{Binding Path=English}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Book" Binding="{Binding Path=Book}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Form class" Binding="{Binding Path=FormClass}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Chapter" Binding="{Binding Path=Chapter}"></DataGridTextColumn>
+                <!--<DataGridTextColumn Header="Set" Binding="{Binding Path=Set}"></DataGridTextColumn>-->
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="LoadIntoDatabase" Grid.Row="7" Grid.Column="3" Style="{StaticResource IOWindowButtonStyle}">Move all records</Button>
+        <Button x:Name="ClearTable" Grid.Row="8" Grid.Column="3" Style="{StaticResource IOWindowButtonStyle}">Clear table</Button>
+    </Grid>
+</UserControl>

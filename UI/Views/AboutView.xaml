@@ -1,0 +1,45 @@
+﻿<UserControl x:Class="UI.Views.AboutView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:UI.Views"
+             mc:Ignorable="d" Background="Green" BorderThickness="10"
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+              <ColumnDefinition Width="5"></ColumnDefinition>
+              <ColumnDefinition Width="Auto"></ColumnDefinition>
+              <ColumnDefinition Width="*"></ColumnDefinition>
+              <ColumnDefinition Width="Auto"></ColumnDefinition>
+              <ColumnDefinition Width="5"></ColumnDefinition>
+        </Grid.ColumnDefinitions>  
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="5"></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        <!--Row 1-->
+        <TextBlock Grid.Row="1" Grid.Column="1" Style="{StaticResource AboutLeftColumnTextBlockStyle}">Author:</TextBlock>
+        <TextBlock Grid.Row="1" Grid.Column="2" Grid.ColumnSpan="2" Style="{StaticResource AboutRightColumnTextBlockStyle}">Tomasz Mankin</TextBlock>
+
+        <!--Row 2-->
+        <TextBlock Grid.Row="2" Grid.Column="1" Style="{StaticResource AboutLeftColumnTextBlockStyle}">Version:</TextBlock>
+        <TextBlock Grid.Row="2" Grid.Column="2" Grid.ColumnSpan="2" Style="{StaticResource AboutRightColumnTextBlockStyle}">21/09/2019 / alpha</TextBlock>
+
+        <!--Row 3-->
+        <TextBlock Grid.Row="3" Grid.Column="1" Style="{StaticResource AboutLeftColumnTextBlockStyle}">From author:</TextBlock>
+        <TextBlock Grid.Row="3" Grid.Column="2" Grid.ColumnSpan="2" Style="{StaticResource AboutRightColumnTextBlockStyle}">Some fancy text and greeting here later.</TextBlock>
+
+        <!--Row 4-->
+        <TextBlock Grid.Row="4" Grid.Column="1" Style="{StaticResource AboutLeftColumnTextBlockStyle}">Dedication:</TextBlock>
+        <TextBlock Grid.Row="4" Grid.Column="2" Grid.ColumnSpan="2" Style="{StaticResource AboutRightColumnTextBlockStyle}">I dedicate this application to Ewelina Paluszak. I Love You.</TextBlock>
+        
+        <!--Row 5-->
+        <!--Additional column for other idea-->
+    </Grid>
+</UserControl>

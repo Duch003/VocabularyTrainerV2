@@ -1,0 +1,34 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:UI.StyleSheets">
+    <Style x:Key="AboutLeftColumnTextBlockStyle" TargetType="{x:Type TextBlock}">
+        <Setter Property="FontSize" Value="25"></Setter>
+        <Setter Property="FontFamily" Value="Consolas"></Setter>
+        <Setter Property="FontWeight" Value="Bold"></Setter>
+        <Setter Property="VerticalAlignment" Value="Center"></Setter>
+        <Setter Property="TextAlignment" Value="Right"></Setter>
+        <Setter Property="TextWrapping" Value="Wrap"></Setter>
+    </Style>
+    <Style x:Key="AboutRightColumnTextBlockStyle" TargetType="{x:Type TextBlock}">
+        <Setter Property="FontSize" Value="25"></Setter>
+        <Setter Property="FontFamily" Value="Consolas"></Setter>
+        <Setter Property="FontWeight" Value="Regular"></Setter>
+        <Setter Property="VerticalAlignment" Value="Center"></Setter>
+        <Setter Property="TextAlignment" Value="Center"></Setter>
+        <Setter Property="TextWrapping" Value="Wrap"></Setter>
+    </Style>
+    
+    <Style x:Key="TextBlockHeaderStyle" TargetType="{x:Type TextBlock}">
+        <Setter Property="TextAlignment" Value="Center"></Setter>
+        <Setter Property="FontSize" Value="18"></Setter>
+        <Setter Property="FontFamily" Value="Consolas"></Setter>
+        <Setter Property="TextWrapping" Value="Wrap"></Setter>
+    </Style>
+
+    <Style x:Key="TextBlockDescriptionStyle" TargetType="{x:Type TextBlock}">
+        <Setter Property="FontFamily" Value="Consolas"></Setter>
+        <Setter Property="FontSize" Value="13"></Setter>
+        <Setter Property="TextAlignment" Value="Center"></Setter>
+        <Setter Property="TextWrapping" Value="Wrap"></Setter>
+    </Style>
+</ResourceDictionary>
