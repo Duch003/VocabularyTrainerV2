@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
 using System.Windows.Data;
@@ -68,7 +69,7 @@ namespace UI.ViewModels
         public void SelectPathToSave()
         {
             FolderBrowserDialog dialog = new FolderBrowserDialog();
-            dialog.Description = "Select folder where You want to save the file.";
+            dialog.Description = "Select folder which You want to save the file in.";
             
             var result = dialog.ShowDialog();
 
@@ -85,9 +86,18 @@ namespace UI.ViewModels
                     SelectedPathToSave = "";
                     break;
             }
+
+            NotifyOfPropertyChange(() => CanSaveRecords);
         }
 
-        public bool CanSaveRecords() => string.IsNullOrEmpty(SelectedPathToSave);
+        public bool CanSaveRecords
+        {
+             get
+             {
+                return !string.IsNullOrEmpty(SelectedPathToSave);
+             } 
+            
+        } 
 
         public async void SaveRecords()
         {
@@ -100,6 +110,8 @@ namespace UI.ViewModels
             }
             await engine.Serialize(SelectedPathToSave, vocabulary);
             SelectedPathToSave = "";
+
+            NotifyOfPropertyChange(() => CanSaveRecords);
         }
 
         public void SelectPathToLoad()
@@ -123,35 +135,91 @@ namespace UI.ViewModels
                     SelectedPathToLoad = "";
                     break;
             }
+
+            if (string.IsNullOrEmpty(SelectedPathToLoad))
+            {
+                if (!IOEngine.IsValid(SelectedPathToLoad))
+                {
+                    SelectedPathToLoad = "";
+                    MessageBox.Show("Selected file is not valid/readable. Select proper file.", "Error",
+                        MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+                    
+            }
+
+            NotifyOfPropertyChange(() => CanLoadRecords);
         }
 
-        public void CanLoadRecords() => string.IsNullOrEmpty(SelectedPathToLoad);
+        public bool CanLoadRecords
+        {
+            get
+            {
+                return !string.IsNullOrEmpty(SelectedPathToLoad); 
+            }
+        }
+        
 
         public async void LoadRecords()
         {
             IOEngine engine = new IOEngine();
             List<EntityModel> localVocabulary = new List<EntityModel>();
 
-            localVocabulary = await engine.Deserialize(SelectedPathToLoad);
-            Repository = new BindableCollection<EntityModel>(localVocabulary);
+            try
+            {
+                localVocabulary = await engine.Deserialize(SelectedPathToLoad);
+                Repository = new BindableCollection<EntityModel>(localVocabulary);
+            }
+            catch (Exception e)
+            {
+                MessageBox.Show($"An error occured while deserializing file. Message:\n{e.Message}\n\nChoose proper xml file.", "Error",
+                    MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+
+            SelectedPathToLoad = "";
+            NotifyOfPropertyChange(() => CanLoadRecords);
+            NotifyOfPropertyChange(() => CanLoadIntoDatabase);
+            NotifyOfPropertyChange(() => CanClearTable);
         }
 
-        public bool CanLoadIntoDatabase() => Repository.Any();
+        public bool CanLoadIntoDatabase
+        {
+            get 
+            {
+                return Repository.Any();
+            }
+        }
+        
 
         public void LoadIntoDatabase()
         {
             Repository repo = new Repository();
-            repo.SaveChanges(Repository.AsQueryable());
+            foreach (var item in Repository)
+            {
+                if (repo.Vocabulary.Exists(z => z.ID == item.ID) && item.ID != 0)
+                {
+                    repo.Edit(item);
+                }
+                else
+                {
+                    repo.Add(item);
+                }
+            }
         }
 
-        public bool CanClearTable()
+        public bool CanClearTable
         {
-            return Repository.Any();
+            get 
+            {
+                return Repository.Any();
+            }
         }
+        
 
         public void ClearTable()
         {
             Repository = new BindableCollection<EntityModel>();
+            NotifyOfPropertyChange(() => CanClearTable);
+            NotifyOfPropertyChange(() => CanLoadIntoDatabase);
         }
     }
 }

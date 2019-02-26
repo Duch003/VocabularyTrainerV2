@@ -20,6 +20,7 @@
             <RowDefinition Height="Auto"></RowDefinition>
             <RowDefinition Height="Auto"></RowDefinition>
             <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
             <RowDefinition Height="5"></RowDefinition>
         </Grid.RowDefinitions>
         
@@ -29,17 +30,18 @@
 
         <!--Row 2-->
         <TextBlock Grid.Row="2" Grid.Column="1" Style="{StaticResource AboutLeftColumnTextBlockStyle}">Version:</TextBlock>
-        <TextBlock Grid.Row="2" Grid.Column="2" Grid.ColumnSpan="2" Style="{StaticResource AboutRightColumnTextBlockStyle}">21/09/2019 / alpha</TextBlock>
+        <TextBlock Grid.Row="2" Grid.Column="2" Grid.ColumnSpan="2" Style="{StaticResource AboutRightColumnTextBlockStyle}">26.02.2019 / beta for single user</TextBlock>
 
         <!--Row 3-->
         <TextBlock Grid.Row="3" Grid.Column="1" Style="{StaticResource AboutLeftColumnTextBlockStyle}">From author:</TextBlock>
-        <TextBlock Grid.Row="3" Grid.Column="2" Grid.ColumnSpan="2" Style="{StaticResource AboutRightColumnTextBlockStyle}">Some fancy text and greeting here later.</TextBlock>
+        <TextBlock Grid.Row="3" Grid.Column="2" Grid.ColumnSpan="2" Style="{StaticResource AboutRightColumnTextBlockStyle}">I have created this application to make learning more accessible and as well to improve my programming skills. Application is made up with Caliburn.Micro Framework and EntityFramework.</TextBlock>
 
         <!--Row 4-->
         <TextBlock Grid.Row="4" Grid.Column="1" Style="{StaticResource AboutLeftColumnTextBlockStyle}">Dedication:</TextBlock>
         <TextBlock Grid.Row="4" Grid.Column="2" Grid.ColumnSpan="2" Style="{StaticResource AboutRightColumnTextBlockStyle}">I dedicate this application to Ewelina Paluszak. I Love You.</TextBlock>
         
         <!--Row 5-->
-        <!--Additional column for other idea-->
+        <TextBlock Grid.Row="5" Grid.Column="1" Style="{StaticResource AboutLeftColumnTextBlockStyle}">Feedback:</TextBlock>
+        <TextBlock Grid.Row="5" Grid.Column="2" Grid.ColumnSpan="2" Style="{StaticResource AboutRightColumnTextBlockStyle}">If You meet any issue or bug during using this application or You have any advice You want to share with me, please let my now by sending me email on tomaszmankin003@gmail.com. </TextBlock>
     </Grid>
 </UserControl>

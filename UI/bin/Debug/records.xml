@@ -1,0 +1,3036 @@
+<?xml version="1.0"?>
+<ArrayOfEntityModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EntityModel>
+    <ID>4</ID>
+    <English>accurate</English>
+    <Polish>precyzyjny</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>5</ID>
+    <English>to allocate resources</English>
+    <Polish>alokować zasoby</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>6</ID>
+    <English>to apply to something</English>
+    <Polish>odnosić się do czegoś</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>7</ID>
+    <English>assets</English>
+    <Polish>aktywa</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>8</ID>
+    <English>at once</English>
+    <Polish>natychmiast</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>9</ID>
+    <English>beneficial</English>
+    <Polish>korzystny</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>10</ID>
+    <English>to boost effectiveness</English>
+    <Polish>zwiększać efektywność</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>11</ID>
+    <English>business goal</English>
+    <Polish>cel biznesowy</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>12</ID>
+    <English>business management software</English>
+    <Polish>oprogramowanie wspomagające zarządzanie przedsiębiorstwem</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>13</ID>
+    <English>to capture</English>
+    <Polish>przechwytywać</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>14</ID>
+    <English>challange</English>
+    <Polish>wyzwanie</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>15</ID>
+    <English>competitive advantage</English>
+    <Polish>przewaga konkurencyjna</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>16</ID>
+    <English>completion</English>
+    <Polish>ukończenie</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>17</ID>
+    <English>comprehensive real-time view</English>
+    <Polish>pełny wgląd w czasie rzeczywistym</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>18</ID>
+    <English>conduct of business</English>
+    <Polish>prowadzenie biznesu</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>19</ID>
+    <English>to continuously evolve</English>
+    <Polish>ewoluować</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>20</ID>
+    <English>cost-benefit analysis</English>
+    <Polish>analiza kosztów i korzyści</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>21</ID>
+    <English>critical success factor</English>
+    <Polish>kluczowy czynnik sukcesu</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>22</ID>
+    <English>crucial</English>
+    <Polish>istotny</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>23</ID>
+    <English>currently</English>
+    <Polish>obecnie</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>24</ID>
+    <English>to customize</English>
+    <Polish>dostosowywać do potrzeb</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>25</ID>
+    <English>day-to-day operations</English>
+    <Polish>codzienne działania</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>26</ID>
+    <English>decision support system</English>
+    <Polish>system wspomagania decyzji</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>27</ID>
+    <English>decision-making process</English>
+    <Polish>proces podejmowania decyzji</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>28</ID>
+    <English>defensive approach</English>
+    <Polish>podejście defensywne</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>29</ID>
+    <English>Delphi method</English>
+    <Polish>metoda delficka</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>30</ID>
+    <English>device</English>
+    <Polish>urządzenie</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>31</ID>
+    <English>effective</English>
+    <Polish>efektywny</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>32</ID>
+    <English>effective management</English>
+    <Polish>efektywne zarządzanie</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>33</ID>
+    <English>efficient</English>
+    <Polish>wydajny</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>34</ID>
+    <English>to enable</English>
+    <Polish>umożliwiać</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>35</ID>
+    <English>enhancement</English>
+    <Polish>ulepszenie</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>36</ID>
+    <English>enterprise resource planning</English>
+    <Polish>planowanie zasobów przedsiębiorstwa</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>37</ID>
+    <English>to evaluate</English>
+    <Polish>szacować</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>38</ID>
+    <English>to evolve</English>
+    <Polish>rozwijać się</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>39</ID>
+    <English>to exchange</English>
+    <Polish>wymieniać</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>40</ID>
+    <English>executive information system</English>
+    <Polish>system informowania kierownictwa</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>41</ID>
+    <English>fundamental objective</English>
+    <Polish>podstawowy cel</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>42</ID>
+    <English>future gain</English>
+    <Polish>przyszły zysk</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>43</ID>
+    <English>goal</English>
+    <Polish>cel</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>44</ID>
+    <English>goodwill</English>
+    <Polish>wartość firmy</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>45</ID>
+    <English>hardware</English>
+    <Polish>sprzęt</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>46</ID>
+    <English>highly competitive market</English>
+    <Polish>bardzo konkurencyjny rynek</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>47</ID>
+    <English>high-risk investment</English>
+    <Polish>inwestycja wysokiego ryzyka</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>48</ID>
+    <English>impact</English>
+    <Polish>wpływ</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>49</ID>
+    <English>to impact something</English>
+    <Polish>mieć wpływ na coś</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>50</ID>
+    <English>in alignment with</English>
+    <Polish>w zgodzie z</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>51</ID>
+    <English>in light of</English>
+    <Polish>w świetle</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>52</ID>
+    <English>in other words</English>
+    <Polish>innymi słowy</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>53</ID>
+    <English>in the market</English>
+    <Polish>na rynku</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>54</ID>
+    <English>increase in revenue</English>
+    <Polish>wzrost przychodu</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>55</ID>
+    <English>information recipient</English>
+    <Polish>odbiorca informacji</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>56</ID>
+    <English>information system</English>
+    <Polish>system informacyjny</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>57</ID>
+    <English>information technology</English>
+    <Polish>technologia informacyjna</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>58</ID>
+    <English>intangible</English>
+    <Polish>niematerialny</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>59</ID>
+    <English>intangible assets</English>
+    <Polish>aktywa niematerialne</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>60</ID>
+    <English>intangible benefit</English>
+    <Polish>niewymierna korzyść</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>61</ID>
+    <English>inventory management</English>
+    <Polish>zarządzanie zapasami</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>62</ID>
+    <English>investment evaluation technique</English>
+    <Polish>technika oceny inwestycji</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>63</ID>
+    <English>IT infrastructure</English>
+    <Polish>infrastruktura informatyczna</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>64</ID>
+    <English>key business driver</English>
+    <Polish>kluczowy czynnik biznesowy</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>65</ID>
+    <English>key to success</English>
+    <Polish>klucz do sukcesu</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>66</ID>
+    <English>to make investment in something</English>
+    <Polish>zainwestować w coś</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>67</ID>
+    <English>management information system</English>
+    <Polish>system informacji zarządczej</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>68</ID>
+    <English>McFarlan's strategic grid</English>
+    <Polish>strategiczna macierz McFarlana</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>69</ID>
+    <English>meaningful</English>
+    <Polish>znaczący</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>70</ID>
+    <English>meaningless</English>
+    <Polish>nic nie znaczący</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>71</ID>
+    <English>to meet the need</English>
+    <Polish>zaspokoić potrzebę</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>72</ID>
+    <English>multi objective - multi criteria method</English>
+    <Polish>metoda wielu celów i wielu kryteriów</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>73</ID>
+    <English>multinational corporation</English>
+    <Polish>korporacja ponadnarodowa</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>74</ID>
+    <English>network</English>
+    <Polish>sieć</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>75</ID>
+    <English>offensive approach</English>
+    <Polish>podejście ofensywne</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>76</ID>
+    <English>on time</English>
+    <Polish>na czas</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>77</ID>
+    <English>to optimize</English>
+    <Polish>optymalizować</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>78</ID>
+    <English>periodic report</English>
+    <Polish>raport okresowy</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>79</ID>
+    <English>plant and equipment</English>
+    <Polish>maszyny i urządzenia</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>80</ID>
+    <English>portfolio analysis</English>
+    <Polish>analiza portfelowa</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>81</ID>
+    <English>to prioritize</English>
+    <Polish>nadawać priorytet</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>82</ID>
+    <English>to process</English>
+    <Polish>przetwarzać</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>83</ID>
+    <English>production planning</English>
+    <Polish>planowanie produkcji</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>84</ID>
+    <English>productive</English>
+    <Polish>produktywny</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>85</ID>
+    <English>profitability</English>
+    <Polish>zyskowność</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>86</ID>
+    <English>to provide information</English>
+    <Polish>dostarczać informacji</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>87</ID>
+    <English>to put emphasis on something</English>
+    <Polish>kłaść nacisk na coś</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>88</ID>
+    <English>research and development</English>
+    <Polish>badania i rozwój</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>89</ID>
+    <English>raw data</English>
+    <Polish>surowe dane</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>90</ID>
+    <English>redundant business task</English>
+    <Polish>zbędne zadanie biznesowe</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>91</ID>
+    <English>to render long-term benefits</English>
+    <Polish>zapewniać długoterminowe korzyści</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>92</ID>
+    <English>return on investment</English>
+    <Polish>zwrot z inwestycji</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>93</ID>
+    <English>senior executive</English>
+    <Polish>przedstawiciel wyższej kadry zarządzającej</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>94</ID>
+    <English>significant</English>
+    <Polish>istotny</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>95</ID>
+    <English>small and medium-sized enterprises</English>
+    <Polish>małe i średnie przedsiębiorstwa</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>96</ID>
+    <English>smoothly</English>
+    <Polish>bezproblemowo</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>97</ID>
+    <English>software</English>
+    <Polish>oprogramowanie</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>98</ID>
+    <English>to store</English>
+    <Polish>składować</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>99</ID>
+    <English>strategic resource</English>
+    <Polish>zasób strategiczny</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>100</ID>
+    <English>suitable</English>
+    <Polish>odpowiedni</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>101</ID>
+    <English>suite</English>
+    <Polish>pakiet</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>102</ID>
+    <English>to take advantage of something</English>
+    <Polish>wykorzystać coś</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>103</ID>
+    <English>tangible assets</English>
+    <Polish>aktywa rzeczowe</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>104</ID>
+    <English>tangible benefit</English>
+    <Polish>wymierna korzyść</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>105</ID>
+    <English>trademark</English>
+    <Polish>znak handlowy</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>106</ID>
+    <English>to transmit information</English>
+    <Polish>przesyłać informacje</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>107</ID>
+    <English>umbrella term</English>
+    <Polish>szerokie pojęcie</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>108</ID>
+    <English>valuable</English>
+    <Polish>cenny</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>109</ID>
+    <English>value analysis</English>
+    <Polish>analiza wartości</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>110</ID>
+    <English>various</English>
+    <Polish>różny</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>111</ID>
+    <English>vital and integral part of business plan</English>
+    <Polish>istotna i integralna część biznesplanu</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>112</ID>
+    <English>well-being</English>
+    <Polish>dobrobyt</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>113</ID>
+    <English>optimization</English>
+    <Polish>optymalizacja</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>114</ID>
+    <English>in time</English>
+    <Polish>w samą porę</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>115</ID>
+    <English>increasingly</English>
+    <Polish>coraz bardziej</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>116</ID>
+    <English>growth</English>
+    <Polish>wzrost</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>117</ID>
+    <English>nowadays</English>
+    <Polish>w dzisiejszych czasach</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>118</ID>
+    <English>set of</English>
+    <Polish>zestaw czegoś</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>119</ID>
+    <English>such</English>
+    <Polish>tego typu</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>120</ID>
+    <English>consist of</English>
+    <Polish>składać się z czegoś</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>121</ID>
+    <English>performance</English>
+    <Polish>wyniki, osiągi</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>122</ID>
+    <English>needs</English>
+    <Polish>potrzeby</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>123</ID>
+    <English>considered</English>
+    <Polish>przemyślany</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>124</ID>
+    <English>certain</English>
+    <Polish>pewien, pewny, niektórzy</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>125</ID>
+    <English>concerned</English>
+    <Polish>zaangażowany, zainteresowany</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>126</ID>
+    <English>concerned with</English>
+    <Polish>zainteresowany czymś</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>127</ID>
+    <English>concerned about</English>
+    <Polish>zaniepokojony</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>128</ID>
+    <English>as far as</English>
+    <Polish>aż do, o ile</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>129</ID>
+    <English>first of all</English>
+    <Polish>przede wszyzstkim</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>130</ID>
+    <English>secondly</English>
+    <Polish>po drugie</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>131</ID>
+    <English>seems</English>
+    <Polish>wydawać się, zdawać się</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>132</ID>
+    <English>assigned</English>
+    <Polish>przydzielić, przypisać</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>133</ID>
+    <English>revenue</English>
+    <Polish>przychód</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>134</ID>
+    <English>income</English>
+    <Polish>dochód</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>135</ID>
+    <English>salary</English>
+    <Polish>pensja</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>136</ID>
+    <English>I allocate my enterprise resources once a week.</English>
+    <Polish>Ja alokuję zasoby mojego przedsiebiorstwa raz w tygodniu. (PS)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>137</ID>
+    <English>Do You apply to particular challange?</English>
+    <Polish>Czy Ty się odnosisz do konkretnego wyzwania? (PS)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>138</ID>
+    <English>They don't boost effectiveness of decision support system.</English>
+    <Polish>Oni nie zwiększają efektywności systemu wspomagania podejmowania decyzji. (PS)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>139</ID>
+    <English>It always captures raw data and processes it.</English>
+    <Polish>To zawsze przechwytuje surowe dane i przetwarza je. (PS)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>140</ID>
+    <English>He rarely conducts his of business.</English>
+    <Polish>On rzadko przewodzi swoją własną firmą. (PS)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>141</ID>
+    <English>She evolves certain abilities every day.</English>
+    <Polish>Ona rozwija codziennie pewne umiejętności. (PS)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>142</ID>
+    <English>From time to time it customizes defensive and offensive approach for business enhancement.</English>
+    <Polish>Od czasu do czasu to dostosowuje defensywne i ofensywne podejście dla poprawy firmy. (PS)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>143</ID>
+    <English>Does it enable effective planning every day?</English>
+    <Polish>Czy to umożliwia efektywne planowanie każdego dnia? (PS)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>144</ID>
+    <English>Do I regulary evaluate profitability of this software?</English>
+    <Polish>Czy ja regularnie szacuję zyskowność tego oprogramowania? (PS)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>145</ID>
+    <English>Do you ever exchange cost-benefit analysis with research and development department?</English>
+    <Polish>Czy Ty wymieniasz kiedykolwiek analizę kosztów i korzyści z działem badań i rozwoju? (PS)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>146</ID>
+    <English>Do we impact currently our competitive advantage with management information system?</English>
+    <Polish>Czy my wpływamy obecnie na naszą przewagę konkurencyjną z systemem informacji zarządczej? (PS)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>147</ID>
+    <English>Does he increase future gain somehow?</English>
+    <Polish>Czy on zwiększył przyszły zysk jakoś? (PS)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>148</ID>
+    <English>Does it always make investments automaticly?</English>
+    <Polish>Czy to zawsze inwestuje automatycznie? (PS)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>149</ID>
+    <English>I don't meet my need yesterday and I am still concerned about my business goal.</English>
+    <Polish>Ja nie zaspokoiłem swojej potrzeby wczoraj i wciąż się martwię o mój cel biznesowy. (PS)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>150</ID>
+    <English>You sometimes don't optimize efficient.</English>
+    <Polish>Ty czasami nie optymalizujesz sprawnie. (PS)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>151</ID>
+    <English>We don't prioritize this task - it is always redundant!</English>
+    <Polish>My nie priorytetyzujemy tego zadania - jest zawsze zbędne! (PS)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>152</ID>
+    <English>He doesn't provide any growth nor increase in revenue.</English>
+    <Polish>On nie zapewnia jakiegokolwiek rozwoju ani wzrostu przychodów. (PS)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>153</ID>
+    <English>She doesn't put emphasis to our day-to-day operations.</English>
+    <Polish>Ona nie kładzie nacisku do naszych codziennych operacji. (PS)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>154</ID>
+    <English>It doesn't render too many money regulary, it isn't beneficial.</English>
+    <Polish>To nie zapewnia zbyt wielu pieniedzy regularnie, to nie jest korzystne. (PS)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>155</ID>
+    <English>This computer doesn't work. It doesn't store informations.</English>
+    <Polish>Ten komputer nie działa. Nie przechwouje danych. (PS)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>156</ID>
+    <English>This executive information system always works weird. Does it transmit accurate informations?</English>
+    <Polish>Ten system informowania kierwonictwa zawsze działa dziwnie. Czy to przesyła precyzyjne informacje? (PS)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>157</ID>
+    <English>Our hardware takes advantage on investment evaluation technique!</English>
+    <Polish>Nasz sprzęt wykorzystuje technikę szacowania inwestycji! (PS)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>158</ID>
+    <English>The course starts in february.</English>
+    <Polish>Kurs zaczyna się w lutym. (PS)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>159</ID>
+    <English>I am allocating resources into high-risk investment.</English>
+    <Polish>Alokuję zasoby w inwestycję wysokiego ryzyka. (PC)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>160</ID>
+    <English>You are applying to our network device.</English>
+    <Polish>Ty odnosisz się do naszego urządzenia sieciowego. (PC)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>161</ID>
+    <English>He is boosting business management software effectiveness which will increase our goodwill.</English>
+    <Polish>On zwiększa efektywność oprogramowania zarządzania przedsiebiorstwem co zwiększy naszą wartość firmy. (PC)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>162</ID>
+    <English>As far as we are capturing informations our software development is going to completion.</English>
+    <Polish>O ile przechwytujemy informacje nasz rozwój oprogramowania dobiega końca. (PC)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>163</ID>
+    <English>It was certain that they are conducting business by investing in business management software. It is meaningful crucial.</English>
+    <Polish>To było pewne że oni prowadzą firmę przez inwestowanie w oprogramowanie wspomagania zarządzania przedsiębiorstwem. To jest istotnie znaczące. (PC)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>164</ID>
+    <English>Am I evolving my developer skills by being productive and concerned?</English>
+    <Polish>Czy ja rozwijam swoje umiejętności programisty przez bycie produktywnym i zaangażowanym? (PC)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>165</ID>
+    <English>Are You customizing it now? Do it at once!</English>
+    <Polish>Teraz to dostosowujesz? Zrób to natychmiast! (PC)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>166</ID>
+    <English>In other words, is this system enabling inventory management with comprehensive real-time view?</English>
+    <Polish>Innymi słowy, czy ten system umożliwia zarządzanie zapasami z wglądem w czasie rzeczywistym? (PC)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>167</ID>
+    <English>Are we evaluating our impact on the market?</English>
+    <Polish>Czy my oszacowujemy nasz wpływ na rynek? (PC)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>168</ID>
+    <English>Are they exchanging our various assets? What with value analysis?</English>
+    <Polish>Czy oni wymieniają nasze różne aktywa? Co z analizą wartości? (PC)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>169</ID>
+    <English>I'm not impacting highly competitive market now, in this time this is not my key business driver.</English>
+    <Polish>Nie wpływam na bardzo konkurencyjny rynek teraz, na ten czas to nie jest mój kluczowy czynnik biznesowy. (PC)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>170</ID>
+    <English>In light of last affairs, You're not impacting our plants and equipment needs at all.</English>
+    <Polish>W świetle ostatnich wydarzeń, Ty nie wpływasz na potrzeby naszych maszyn i urządzeń w ogóle. (PC)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>171</ID>
+    <English>I receive our periodic report. Unfortunately, it's not incresing out long-term benefits.</English>
+    <Polish>Otrzymałem nasz okresowy raport. Niestety, nie zwiększa to naszych długoterminowych korzyści. (PC)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>172</ID>
+    <English>They're not making investment in IT infrastructure.</English>
+    <Polish>Oni nie robią inwestycji w infrastruturę informatyczną. (PC)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>173</ID>
+    <English>You are meeting multinational corporation needs by developing multi objective - multi criteria method software, which for sure will be return on investment.</English>
+    <Polish>Ty zaspokajasz potrzeby ponadnarodowej korporacji przez rozwijanie oprogramowania wilu zadań - wielu kryteriów, co na pewno będzie zwrotem z inwestycji. (PC)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>174</ID>
+    <English>She is optimizing effective management. Nowadays in alignment with fundamental objective this is key to success.</English>
+    <Polish>Ona optymalizuje efektywne zarządzanie. W dzisiajszych czasach w zgodzie z podstawowym celem to jest klucz do sukcesu. (PC)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>175</ID>
+    <English>I am prioritizing executives salary, because their efforts are significant for information recipients.</English>
+    <Polish>Priorytetyzuję zarobki kierownictwa, ponieważ ich wysiłki są ważne dla odbiorców informacji. (PC)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>176</ID>
+    <English>Such informations shouldn't consist of raw data. Are You processing them at the moment?</English>
+    <Polish>Takie informacje nie powinny składać się z surowych danych. Przetwarzasz je w tym momencie? (PC)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>177</ID>
+    <English>Is he providing support for sales department? I am concerned with our new trademark. This is key business driver.</English>
+    <Polish>Czy on zapewnia wsparcie dla działu marketingu? Jestem zainteresowany naszym nowym znakiem towarowym. To jest kluczowy czynnik sukcesu. (PC)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>178</ID>
+    <English>Are they putting too much emphasis into their own goals? It seems like.</English>
+    <Polish>Czy oni kładą za duży nacisk na swoje włane cele? Na to wygląda. (PC)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>179</ID>
+    <English>I am not ill. I am going to finish this in time.</English>
+    <Polish>Nie jestem chory. Mam zamiar to skończyć w porę. (PC)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>180</ID>
+    <English>The suit is incomplete. It's not rendering revenue.</English>
+    <Polish>Pakiet jest niekompletny. Nie generuje przychodów. (PC)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>181</ID>
+    <English>Secondly, we're not storing valuable items. I have more suitable room for that.</English>
+    <Polish>Po drugie, nie przechowujemy wartościowych przedmiotów. Mam bardziej pasujące pomieszczenie dla tego. (PC)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>182</ID>
+    <English>Our company is taking advantage on newest information technology achievements.</English>
+    <Polish>Nasza firma wykorzystuje najnowsze osiągniecia technologii informacyjnej. (PC)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>183</ID>
+    <English>This message is set of of many things. Are they transmitting it smoothly?</English>
+    <Polish>Ta wiadomosć składa się z wielu rzeczy. Czy oni przesyłają to gładko? (PC)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>What is Information Technology?</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>184</ID>
+    <English>access control mechanism</English>
+    <Polish>mechanizm kontroli dostępu</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>185</ID>
+    <English>access level</English>
+    <Polish>poziom dostępu</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>186</ID>
+    <English>accessible</English>
+    <Polish>dostępny</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>187</ID>
+    <English>accuracy</English>
+    <Polish>dokładność, precyzyjność, trafność</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>188</ID>
+    <English>accessible remotely</English>
+    <Polish>dostępny zdalnie</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>189</ID>
+    <English>to administer database</English>
+    <Polish>administrować bazą danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>190</ID>
+    <English>alternation</English>
+    <Polish>zmiana</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>191</ID>
+    <English>to arrange</English>
+    <Polish>organizować, porządkować</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>192</ID>
+    <English>associative entity</English>
+    <Polish>encja asjocjacyjna</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>193</ID>
+    <English>assumption</English>
+    <Polish>zalożenie</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>194</ID>
+    <English>attribute</English>
+    <Polish>atrybut</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>195</ID>
+    <English>authentication</English>
+    <Polish>uwierzytelnianie</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>196</ID>
+    <English>authorization</English>
+    <Polish>upoważnienie, uprawnienie</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>197</ID>
+    <English>backup</English>
+    <Polish>kopia zapasowa</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>198</ID>
+    <English>by a large</English>
+    <Polish>ogólnie rzecz biorąc</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>199</ID>
+    <English>central processing unit</English>
+    <Polish>procesor</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>200</ID>
+    <English>cloud computing system</English>
+    <Polish>platforma oparta na chmurze obliczeniowej</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>201</ID>
+    <English>cloud-based DBMS</English>
+    <Polish>system zarządzania baza danych w chmurze</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>202</ID>
+    <English>collection of requirements</English>
+    <Polish>zbiór wymagań</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>203</ID>
+    <English>column</English>
+    <Polish>kolumna</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>204</ID>
+    <English>conceptual database model</English>
+    <Polish>konceptualny model bazy danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>205</ID>
+    <English>concurrent access</English>
+    <Polish>równoczesny dostęp</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>206</ID>
+    <English>consistency</English>
+    <Polish>spójność</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>207</ID>
+    <English>consistent</English>
+    <Polish>spójny</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>208</ID>
+    <English>constraint</English>
+    <Polish>ograniczenie</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>209</ID>
+    <English>constraints</English>
+    <Polish>więzy</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>210</ID>
+    <English>to convert something to something</English>
+    <Polish>konwertować coś w coś</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>211</ID>
+    <English>crow's foot</English>
+    <Polish>kurza stopka</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>212</ID>
+    <English>data administrator</English>
+    <Polish>administrator danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>213</ID>
+    <English>data availability</English>
+    <Polish>dostępność danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>214</ID>
+    <English>data backup</English>
+    <Polish>kopia zapasowa danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>215</ID>
+    <English>data integrity</English>
+    <Polish>integralność danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>216</ID>
+    <English>data loading</English>
+    <Polish>ładowanie danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>217</ID>
+    <English>data loss</English>
+    <Polish>utrata danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>218</ID>
+    <English>data management</English>
+    <Polish>zarządzanie danymi</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>219</ID>
+    <English>data manipulation</English>
+    <Polish>operować danymi, manipulować danymi</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>220</ID>
+    <English>data migration</English>
+    <Polish>migracja danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>221</ID>
+    <English>data model</English>
+    <Polish>model danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>222</ID>
+    <English>data need</English>
+    <Polish>zapotrzebowanie na dane</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>223</ID>
+    <English>data recovery</English>
+    <Polish>odzyskiwanie danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>224</ID>
+    <English>data retrieval</English>
+    <Polish>wyszukiwanie danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>225</ID>
+    <English>data security</English>
+    <Polish>bezpieczeństwo danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>226</ID>
+    <English>data standards</English>
+    <Polish>standardy związane z bazami danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>227</ID>
+    <English>data storage</English>
+    <Polish>przechowywanie danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>228</ID>
+    <English>data type</English>
+    <Polish>typ danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>229</ID>
+    <English>database administrator</English>
+    <Polish>administrator baz danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>230</ID>
+    <English>database as a service</English>
+    <Polish>baza danych jako usługa</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>231</ID>
+    <English>database design</English>
+    <Polish>projekt bazy danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>232</ID>
+    <English>database designer</English>
+    <Polish>projektant bazy danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>233</ID>
+    <English>database engine</English>
+    <Polish>silnik bazy danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>234</ID>
+    <English>database management system</English>
+    <Polish>system zarządzania bazą danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>235</ID>
+    <English>database object</English>
+    <Polish>obiekt bazowy</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>236</ID>
+    <English>database query language</English>
+    <Polish>język zapytań do bazy danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>237</ID>
+    <English>query</English>
+    <Polish>zapytanie, kwerenda</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>238</ID>
+    <English>to query something</English>
+    <Polish>wątpic w coś / pytać o coś</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>239</ID>
+    <English>deadlock</English>
+    <Polish>zakleszczenie / blokada wzajemna</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>240</ID>
+    <English>to decipher</English>
+    <Polish>deszyfrować</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>241</ID>
+    <English>disk space</English>
+    <Polish>przstrzeń dyskowa</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>242</ID>
+    <English>distributed dbms</English>
+    <Polish>system zarządzania rozproszoną baza danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>243</ID>
+    <English>domain integrity constraints</English>
+    <Polish>więzy integralności domeny</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>244</ID>
+    <English>driver</English>
+    <Polish>sterownik</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>245</ID>
+    <English>embedded dbms</English>
+    <Polish>system zarządzania wbudowaną baza danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>246</ID>
+    <English>encryption</English>
+    <Polish>szyfrowanie</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>247</ID>
+    <English>end-user</English>
+    <Polish>użytkownik końcowy</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>248</ID>
+    <English>to ensure</English>
+    <Polish>zapewniać</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>249</ID>
+    <English>entity interity constraints</English>
+    <Polish>więzy integralności encji</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>250</ID>
+    <English>entity relationship diagram</English>
+    <Polish>diagram związkow encji</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>251</ID>
+    <English>entity</English>
+    <Polish>encja</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>252</ID>
+    <English>ETL process</English>
+    <Polish>proces ETL</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>253</ID>
+    <English>extract, transform, load process</English>
+    <Polish>proces ekstrakcji, transformacji i ładowania</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>254</ID>
+    <English>execution time</English>
+    <Polish>czas wykonania</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>255</ID>
+    <English>exploitable</English>
+    <Polish>nadający się do wykorzystania</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>256</ID>
+    <English>field</English>
+    <Polish>pole</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>257</ID>
+    <English>flat file</English>
+    <Polish>plik płaski</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>258</ID>
+    <English>foreign key</English>
+    <Polish>klucz obcy</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>259</ID>
+    <English>graphical user interface</English>
+    <Polish>graficzny interfejs użytkownika</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>260</ID>
+    <English>inconsistency</English>
+    <Polish>niespójnosc</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>261</ID>
+    <English>information need</English>
+    <Polish>potrzeba informacyjna</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>262</ID>
+    <English>inherent</English>
+    <Polish>nieodłączny</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>263</ID>
+    <English>in-memory dbms</English>
+    <Polish>system zarządzania bazą danych in-memory</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>264</ID>
+    <English>integrity</English>
+    <Polish>integralność</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>265</ID>
+    <English>integrity constraints</English>
+    <Polish>więzy integralności</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>266</ID>
+    <English>interface</English>
+    <Polish>interfejs</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>267</ID>
+    <English>interrelated</English>
+    <Polish>wzajemnie powiązany</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>268</ID>
+    <English>intra-query parallelism</English>
+    <Polish>wykonanie pojedynczego zapytania przy rownoleglym uzyciu kilku procesorow</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>269</ID>
+    <English>to involve</English>
+    <Polish>dotyczyć / obejmować</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>270</ID>
+    <English>key uniqueness</English>
+    <Polish>unikalność kluczy</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>271</ID>
+    <English>to lease</English>
+    <Polish>wydzierżawić</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>272</ID>
+    <English>legal value</English>
+    <Polish>dozwolna wartość</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>273</ID>
+    <English>logical database model</English>
+    <Polish>logiczny model bazy danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>274</ID>
+    <English>to maintain</English>
+    <Polish>utrzymywać</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>275</ID>
+    <English>maintenance</English>
+    <Polish>utrzymanie</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>276</ID>
+    <English>to make an attempt</English>
+    <Polish>podjąc probę</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>277</ID>
+    <English>many-core CPU</English>
+    <Polish>procesor wielordzeniowy</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>278</ID>
+    <English>many-to-many relationship</English>
+    <Polish>relacja wiele do wielu</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>279</ID>
+    <English>master server</English>
+    <Polish>serwer glowny</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>280</ID>
+    <English>multimedia format</English>
+    <Polish>format multimedialny</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>281</ID>
+    <English>multiple concurrent users</English>
+    <Polish>wielu równoczesnych użytkowników</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>282</ID>
+    <English>normalized</English>
+    <Polish>znormalizowany</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>283</ID>
+    <English>notation</English>
+    <Polish>notacja</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>284</ID>
+    <English>object-oriented dbms</English>
+    <Polish>obiektowy system zarządzania baza danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>285</ID>
+    <English>one-to-many relationship</English>
+    <Polish>relacja jeden do wielu</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>286</ID>
+    <English>one-to-one relationship</English>
+    <Polish>relacja jednen do jednego</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>287</ID>
+    <English>to operate</English>
+    <Polish>obłslugiwać</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>288</ID>
+    <English>performance tuning</English>
+    <Polish>dostrajanie wydajności</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>289</ID>
+    <English>performance</English>
+    <Polish>wydajność</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>290</ID>
+    <English>physical database model</English>
+    <Polish>fizyczny model bazy danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>291</ID>
+    <English>to prevent someone from doing something</English>
+    <Polish>powstrzymywać kogoś przed czymś</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>292</ID>
+    <English>primary key</English>
+    <Polish>klucz główny</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>293</ID>
+    <English>principe</English>
+    <Polish>zasada / zasada umowna</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>294</ID>
+    <English>programming language</English>
+    <Polish>język programowania</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>295</ID>
+    <English>to provide</English>
+    <Polish>dostarczać</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>296</ID>
+    <English>to purchase</English>
+    <Polish>nabyć / zakupić</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>297</ID>
+    <English>query</English>
+    <Polish>zapytanie</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>298</ID>
+    <English>to query database</English>
+    <Polish>odpytywać bazę danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>299</ID>
+    <English>query language</English>
+    <Polish>język zapytań</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>300</ID>
+    <English>random access memory</English>
+    <Polish>pamięć o dostępie swobodnym / pamiec RAM</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>301</ID>
+    <English>record</English>
+    <Polish>rekord / zapis</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>302</ID>
+    <English>redundancy</English>
+    <Polish>redundancja / nadmiarowosc</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>303</ID>
+    <English>referential integrity constraints</English>
+    <Polish>więzy integralności referencyjnej</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>304</ID>
+    <English>relational model</English>
+    <Polish>model relacyjny</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>305</ID>
+    <English>relationship</English>
+    <Polish>relacja / związek</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>306</ID>
+    <English>release to production environment</English>
+    <Polish>uruchomienie w środowisku produkcyjnym</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>307</ID>
+    <English>relational dbms</English>
+    <Polish>system zarządzania relacyjną baza danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>308</ID>
+    <English>to replicate</English>
+    <Polish>replikować / powielać</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>309</ID>
+    <English>repository</English>
+    <Polish>repozytorium</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>310</ID>
+    <English>requirements analysis</English>
+    <Polish>analiza wymagań</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>311</ID>
+    <English>to resolve into something</English>
+    <Polish>rozkładac na coś (np.: równanie na mniejsze części)</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>312</ID>
+    <English>retrieval of informations</English>
+    <Polish>wyszukiwanie informacji</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>313</ID>
+    <English>row</English>
+    <Polish>wiersz</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>314</ID>
+    <English>security constraints</English>
+    <Polish>ograniczenia ze wzgledów bezpieczeństwa</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>315</ID>
+    <English>service provider</English>
+    <Polish>dostawca usług</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>316</ID>
+    <English>slave server</English>
+    <Polish>serwer zapasowy</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>317</ID>
+    <English>to set standards</English>
+    <Polish>wyznaczać standardy</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>318</ID>
+    <English>structured query language</English>
+    <Polish>strukturalny język zapytań</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>319</ID>
+    <English>solid state drive</English>
+    <Polish>dysk SSD / dysk półprzewodnikowy</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>320</ID>
+    <English>to store</English>
+    <Polish>przechowywać / składowac</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>verb</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>321</ID>
+    <English>stored data</English>
+    <Polish>przechowywane dane / składowane dane</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>322</ID>
+    <English>table space</English>
+    <Polish>obszar tabeli</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>323</ID>
+    <English>third party application</English>
+    <Polish>aplikacja zewnętrznego dostawcy</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>324</ID>
+    <English>tuple</English>
+    <Polish>krotka, rekord w bazie</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>325</ID>
+    <English>unified modelling language</English>
+    <Polish>zunifikowany jezyk modelowania</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>326</ID>
+    <English>unauthorized user</English>
+    <Polish>nieautoryzowany uzytkownik</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>327</ID>
+    <English>unique identifier</English>
+    <Polish>unikalny identyfikator</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>328</ID>
+    <English>upgrade</English>
+    <Polish>aktualizacja</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>329</ID>
+    <English>vendor</English>
+    <Polish>dostawca</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>330</ID>
+    <English>web interface</English>
+    <Polish>intefejs www</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>331</ID>
+    <English>whereas</English>
+    <Polish>podczas gdy</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>332</ID>
+    <English>with respect to something</English>
+    <Polish>odnosnie do czegoś</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>333</ID>
+    <English>relationship with somebody</English>
+    <Polish>związek z kims</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>334</ID>
+    <English>distinguish</English>
+    <Polish>odróżnic / rozróżnic / rozpoznać</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>335</ID>
+    <English>interrelated</English>
+    <Polish>wewnętrznie powiązane</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>336</ID>
+    <English>variety</English>
+    <Polish>szeroki wybór / zakres / oferta</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>337</ID>
+    <English>data entry</English>
+    <Polish>wprowadzanie danych</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>338</ID>
+    <English>data entries</English>
+    <Polish>wprowadzone dane</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>339</ID>
+    <English>common</English>
+    <Polish>pospolity / powszechny / zwykły</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+  <EntityModel>
+    <ID>340</ID>
+    <English>therefore</English>
+    <Polish>dlatego / z tego powodu</Polish>
+    <Book>English4IT</Book>
+    <Chapter>Databases</Chapter>
+    <FormClass>noun</FormClass>
+    <Points>0</Points>
+  </EntityModel>
+</ArrayOfEntityModel>

@@ -10,11 +10,13 @@ namespace UI.Models
 {
     public class IOEngine
     {
-        public bool IsValid(string path)
+        public static bool IsValid(string path)
         {
-            var serializer = new XmlSerializer(typeof(List<EntityModel>), path);
-            
-            XmlReader reader = XmlReader.Create(path);
+            //Can't use this way, because any valid (by structure) xml file is marked as readable
+            Stream fs = new FileStream(path, FileMode.Open);
+            XmlReader reader = new XmlTextReader(fs);
+            XmlSerializer serializer = new XmlSerializer(typeof(List<EntityModel>));
+
             return serializer.CanDeserialize(reader);
         }
 
@@ -47,11 +49,12 @@ namespace UI.Models
 
             try
             {
-                output = await Task.Run(() => (List<EntityModel>) deserializer.Deserialize(stream));
+                output = await (Task.Run(() => (List<EntityModel>) deserializer.Deserialize(stream)));
             }
             catch (Exception)
             {
                 output = new List<EntityModel>();
+                throw;
             }
             finally
             {

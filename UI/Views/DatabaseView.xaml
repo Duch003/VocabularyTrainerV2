@@ -6,6 +6,7 @@
              xmlns:local="clr-namespace:UI.Views"
              mc:Ignorable="d" Background="Green"
              d:DesignHeight="450" d:DesignWidth="800">
+
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="20"></ColumnDefinition>
@@ -25,27 +26,62 @@
         </Grid.RowDefinitions>
         
         <!--Row 1-->
-        <TextBox x:Name="Pattern" Grid.Row="1" Grid.Column="1" MinWidth="200"></TextBox>
-        <ComboBox Grid.Row="1" Grid.Column="2" ItemsSource="{Binding Book}" SelectedItem="{Binding SelectedBook}"></ComboBox>
-        <ComboBox Grid.Row="1" Grid.Column="3" ItemsSource="{Binding FormClass}" SelectedItem="{Binding SelectedFormClass}"></ComboBox>
-        <ComboBox Grid.Row="1" Grid.Column="4" ItemsSource="{Binding Chapter}" SelectedItem="{Binding SelectedChapter}"></ComboBox>
-        <ComboBox Grid.Row="1" Grid.Column="5" ItemsSource="{Binding Set}" SelectedItem="{Binding SelectedSet}"></ComboBox>
+        <TextBox x:Name="Pattern" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="5" MinWidth="200" Padding="7" FontSize="15"></TextBox>
 
         <!--Row 2-->
-        <DataGrid x:Name="RepositoryView" Style="{StaticResource DataGridDefaultStyle}" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="5">
+        <DataGrid x:Name="RepositoryView" Style="{StaticResource DataGridDefaultStyle}" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="5" SelectedItem="{Binding SelectedEntity}" HorizontalContentAlignment="Center">
             <DataGrid.Columns>
-                <DataGridTextColumn Header="Polish" Binding="{Binding Path=Polish}"></DataGridTextColumn>
-                <DataGridTextColumn Header="English" Binding="{Binding Path=English}"></DataGridTextColumn>
-                <DataGridTextColumn Header="Book" Binding="{Binding Path=Book}"></DataGridTextColumn>
-                <DataGridTextColumn Header="Form class" Binding="{Binding Path=FormClass}"></DataGridTextColumn>
-                <DataGridTextColumn Header="Chapter" Binding="{Binding Path=Chapter}"></DataGridTextColumn>
-                <!--<DataGridTextColumn Header="Set" Binding="{Binding Path=Set}"></DataGridTextColumn>-->
+                <DataGridTextColumn Header="Polish" Binding="{Binding Path=Polish}" MaxWidth="350">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                            <Setter Property="TextBlock.TextAlignment" Value="Center"/>
+                            <Setter Property="TextBlock.VerticalAlignment" Value="Center"/>
+                            <Setter Property="TextBlock.Padding" Value="7"></Setter>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="English" Binding="{Binding Path=English}" MaxWidth="350">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                            <Setter Property="TextBlock.TextAlignment" Value="Center"/>
+                            <Setter Property="TextBlock.VerticalAlignment" Value="Center"/>
+                            <Setter Property="TextBlock.Padding" Value="7"></Setter>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Book" Binding="{Binding Path=Book}" MaxWidth="200">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                            <Setter Property="TextBlock.TextAlignment" Value="Center"/>
+                            <Setter Property="TextBlock.VerticalAlignment" Value="Center"/>
+                            <Setter Property="TextBlock.Padding" Value="7"></Setter>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Form class" Binding="{Binding Path=FormClass}" MaxWidth="200">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                            <Setter Property="TextBlock.TextAlignment" Value="Center"/>
+                            <Setter Property="TextBlock.VerticalAlignment" Value="Center"/>
+                            <Setter Property="TextBlock.Padding" Value="7"></Setter>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Chapter" Binding="{Binding Path=Chapter}" MaxWidth="200">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                            <Setter Property="TextBlock.TextAlignment" Value="Center"/>
+                            <Setter Property="TextBlock.VerticalAlignment" Value="Center"/>
+                            <Setter Property="TextBlock.Padding" Value="7"></Setter>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
             </DataGrid.Columns>
         </DataGrid>   
-        
-        <!--Row 3-->
-        <Button x:Name="RefreshTable" Grid.Row="3" Grid.Column="1">Refresh</Button>
-        <Button x:Name="Save" Grid.Row="3" Grid.Column="2" Grid.ColumnSpan="2">Save changes</Button>
-        <Button x:Name="Cancel" Grid.Row="3" Grid.Column="4" Grid.ColumnSpan="2">Cancel</Button>
     </Grid>
 </UserControl>

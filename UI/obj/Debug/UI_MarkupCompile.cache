@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Duch003\source\repos\VocabularyTrainerV2\UI\App.xaml
-13-1584513998
+14-1825503720
 
-242001245535
+26-838571023
 125-1509478235
-StyleSheets\ButtonStyleSheet.xaml;StyleSheets\CheckBoxStyleSheet.xaml;StyleSheets\ComboBoxStyleSheet.xaml;StyleSheets\DataGridStyleSheet.xaml;StyleSheets\LabelStyleSheet.xaml;StyleSheets\TextBlockStyleSheet.xaml;Views\AboutView.xaml;Views\DatabaseView.xaml;Views\GameWindowView.xaml;Views\InputOutputView.xaml;Views\PlaySettingsView.xaml;Views\ShellView.xaml;StyleSheets\TextBoxStyleSheet.xaml;
+StyleSheets\ButtonStyleSheet.xaml;StyleSheets\CheckBoxStyleSheet.xaml;StyleSheets\ComboBoxStyleSheet.xaml;StyleSheets\DataGridStyleSheet.xaml;StyleSheets\DataGridTextColumnStyleSheet.xaml;StyleSheets\LabelStyleSheet.xaml;StyleSheets\TextBlockStyleSheet.xaml;Views\AboutView.xaml;Views\DatabaseView.xaml;Views\GameWindowView.xaml;Views\InputOutputView.xaml;Views\PlaySettingsView.xaml;Views\ShellView.xaml;StyleSheets\TextBoxStyleSheet.xaml;
 
 False
 

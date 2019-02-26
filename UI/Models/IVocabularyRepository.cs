@@ -1,11 +1,13 @@
-﻿using System.Linq;
+﻿using System.Collections.Generic;
 
 namespace UI.Models
 {
     public interface IVocabularyRepository
     {
-        IQueryable<EntityModel> Vocabulary { get; }
+        List<EntityModel> Vocabulary { get; }
 
-        bool SaveChanges(IQueryable<EntityModel> vocabulary);
+        void Add(EntityModel model);
+        void Delete(EntityModel model);
+        void Edit(EntityModel model);
     }
 }

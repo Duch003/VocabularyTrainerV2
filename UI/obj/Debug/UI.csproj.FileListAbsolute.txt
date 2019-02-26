@@ -44,3 +44,4 @@ C:\Users\Duch003\source\repos\VocabularyTrainerV2\UI\obj\Debug\StyleSheets\Check
 C:\Users\Duch003\source\repos\VocabularyTrainerV2\UI\obj\Debug\StyleSheets\TextBoxStyleSheet.baml
 C:\Users\Duch003\source\repos\VocabularyTrainerV2\UI\obj\Debug\Views\GameWindowView.g.cs
 C:\Users\Duch003\source\repos\VocabularyTrainerV2\UI\obj\Debug\Views\GameWindowView.baml
+C:\Users\Duch003\source\repos\VocabularyTrainerV2\UI\obj\Debug\StyleSheets\DataGridTextColumnStyleSheet.baml

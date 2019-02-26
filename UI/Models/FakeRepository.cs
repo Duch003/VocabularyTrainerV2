@@ -1,11 +1,12 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace UI.Models
 {
-    public class FakeRepository : IVocabularyRepository
+    public class FakeRepository : IVocabularyRepository, IDisposable
     {
-        private IQueryable<EntityModel> _vocabulary;
+        private List<EntityModel> _vocabulary;
 
         public FakeRepository()
         {
@@ -19,7 +20,7 @@ namespace UI.Models
                     Book = "English4IT",
                     Chapter = "1 - What is information technology?",
                     FormClass = "Noun",
-                    //Set = ""
+                    
                 },
                 new EntityModel
                 {
@@ -29,7 +30,7 @@ namespace UI.Models
                     Book = "English4IT",
                     Chapter = "1 - What is information technology?",
                     FormClass = "Verb",
-                    //Set = ""
+                    
                 },
                 new EntityModel
                 {
@@ -39,7 +40,7 @@ namespace UI.Models
                     Book = "English4IT",
                     Chapter = "1 - What is information technology?",
                     FormClass = "Adverb",
-                    //Set = ""
+                    
                 },
                 new EntityModel
                 {
@@ -49,7 +50,7 @@ namespace UI.Models
                     Book = "English4IT",
                     Chapter = "1 - What is information technology?",
                     FormClass = "Verb",
-                    //Set = ""
+                    
                 },
                 new EntityModel
                 {
@@ -59,7 +60,7 @@ namespace UI.Models
                     Book = "English4IT",
                     Chapter = "2 - Databases",
                     FormClass = "Noun",
-                    //Set = ""
+                    
                 },
                 new EntityModel
                 {
@@ -69,7 +70,7 @@ namespace UI.Models
                     Book = "English4IT",
                     Chapter = "2 - Databases",
                     FormClass = "Noun",
-                    //Set = ""
+                    
                 },
                 new EntityModel
                 {
@@ -79,7 +80,7 @@ namespace UI.Models
                     Book = "Grammar book",
                     Chapter = "1 - Databases",
                     FormClass = "Noun",
-                    //Set = ""
+                    
                 },
                 new EntityModel
                 {
@@ -110,21 +111,61 @@ namespace UI.Models
                     Chapter = "English grammar",
                     FormClass = "Irregular verbs",
                     //Set = "begin"
+                },
+                new EntityModel
+                {
+                    ID = 9,
+                    Polish = "a",
+                    English = "a",
+                    Book = "a",
+                    Chapter = "a",
+                    FormClass = "a",
+                    //Set = "begin"
+                },
+                new EntityModel
+                {
+                    ID = 9,
+                    Polish = "b",
+                    English = "b",
+                    Book = "a",
+                    Chapter = "a",
+                    FormClass = "a",
+                    //Set = "begin"
                 }
-            }.AsQueryable();
+            }.ToList();
         }
 
-        public IQueryable<EntityModel> Vocabulary
+        public List<EntityModel> Vocabulary
         {
             get { return _vocabulary; }
-            private set { _vocabulary = value; }
+            private set
+            {
+                _vocabulary = value; 
+            }
         }
-    
 
-        public bool SaveChanges(IQueryable<EntityModel> vocabulary)
+        public void Add(EntityModel model)
         {
-            Vocabulary = vocabulary;
-            return true;
+            Vocabulary.Add(model);
+        }
+
+        public void Delete(EntityModel model)
+        {
+            Vocabulary.Remove(Vocabulary.Find(item => item.ID == model.ID));
+        }
+
+        public void Dispose()
+        {
+            this.Dispose();
+        }
+
+        public void Edit(EntityModel model)
+        {
+            Vocabulary.Find(item => item.ID == model.ID).Book = model.Book;
+            Vocabulary.Find(item => item.ID == model.ID).Chapter = model.Chapter;
+            Vocabulary.Find(item => item.ID == model.ID).FormClass = model.FormClass;
+            Vocabulary.Find(item => item.ID == model.ID).English = model.English;
+            Vocabulary.Find(item => item.ID == model.ID).Polish = model.Polish;
         }
     }
 }

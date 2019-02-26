@@ -1,10 +1,4 @@
-﻿using System;
-using System.ComponentModel.Composition;
-using System.ComponentModel.Composition.Hosting;
-using System.ComponentModel.Composition.Primitives;
-using System.Diagnostics.Contracts;
-using System.Linq;
-using System.Threading;
+﻿using System.ComponentModel.Composition.Hosting;
 using System.Windows;
 using Caliburn.Micro;
 using UI.ViewModels;

@@ -16,19 +16,27 @@
         <Setter Property="VerticalAlignment" Value="Center"></Setter>
         <Setter Property="TextAlignment" Value="Center"></Setter>
         <Setter Property="TextWrapping" Value="Wrap"></Setter>
+        <Setter Property="Margin" Value="0, 20, 0, 20"></Setter>
     </Style>
-    
-    <Style x:Key="TextBlockHeaderStyle" TargetType="{x:Type TextBlock}">
+
+    <Style x:Key="HeaderTextBlockStyle" TargetType="{x:Type TextBlock}">
         <Setter Property="TextAlignment" Value="Center"></Setter>
         <Setter Property="FontSize" Value="18"></Setter>
         <Setter Property="FontFamily" Value="Consolas"></Setter>
         <Setter Property="TextWrapping" Value="Wrap"></Setter>
     </Style>
 
-    <Style x:Key="TextBlockDescriptionStyle" TargetType="{x:Type TextBlock}">
+    <Style x:Key="DescriptionTextBlockStyle" TargetType="{x:Type TextBlock}">
         <Setter Property="FontFamily" Value="Consolas"></Setter>
         <Setter Property="FontSize" Value="13"></Setter>
         <Setter Property="TextAlignment" Value="Center"></Setter>
         <Setter Property="TextWrapping" Value="Wrap"></Setter>
+    </Style>
+    
+    <Style x:Key="GameWindowStatsTextBlockStyle" TargetType="{x:Type TextBlock}">
+        <Setter Property="MinWidth" Value="300"></Setter>
+        <Setter Property="TextAlignment" Value="Center"></Setter>
+        <Setter Property="FontWeight" Value="Bold"></Setter>
+        <Setter Property="VerticalAlignment" Value="Center"></Setter>
     </Style>
 </ResourceDictionary>

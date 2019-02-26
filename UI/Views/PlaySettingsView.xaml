@@ -6,18 +6,18 @@
              xmlns:local="clr-namespace:UI.Views"
              xmlns:forms="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
              mc:Ignorable="d" Background="DodgerBlue"
-             d:DesignHeight="450" d:DesignWidth="800">
-    <Grid>
-         <Grid.RowDefinitions>
-             <RowDefinition Height="20"></RowDefinition>
-             <RowDefinition Height="Auto"></RowDefinition>
-             <RowDefinition Height="Auto"></RowDefinition>
-             <RowDefinition Height="Auto"></RowDefinition>
-             <RowDefinition Height="Auto"></RowDefinition>
-             <RowDefinition Height="Auto"></RowDefinition>
-             <RowDefinition Height="Auto"></RowDefinition>
-             <RowDefinition Height="Auto"></RowDefinition>
-             <RowDefinition Height="Auto"></RowDefinition>
+             d:DesignHeight="450" >
+    <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
             <RowDefinition Height="*"></RowDefinition>
             <RowDefinition Height="20"></RowDefinition>
         </Grid.RowDefinitions>
@@ -27,51 +27,59 @@
             <ColumnDefinition Width="Auto"></ColumnDefinition>
             <ColumnDefinition Width="Auto"></ColumnDefinition>
             <ColumnDefinition Width="Auto"></ColumnDefinition>
-            <ColumnDefinition Width="Auto"></ColumnDefinition>
             <ColumnDefinition Width="*"></ColumnDefinition>
+
             <ColumnDefinition Width="20"></ColumnDefinition>
         </Grid.ColumnDefinitions>
-        
+
         <!--Row 1-->
-        <TextBlock Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="6" FontSize="30" Style="{StaticResource TextBlockHeaderStyle}">Game settings</TextBlock>
+        <TextBlock Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="5" FontSize="30" Style="{StaticResource HeaderTextBlockStyle}">Game settings</TextBlock>
 
         <!--Row 2-->
-        <TextBlock Grid.Row="2" Grid.Column="1" Grid.RowSpan="2" VerticalAlignment="Center" Style="{StaticResource TextBlockHeaderStyle}">Select the range of quiz:</TextBlock>
-        <TextBlock Grid.Row="2" Grid.Column="2" Style="{StaticResource TextBlockDescriptionStyle}">Book</TextBlock>
-        <TextBlock Grid.Row="2" Grid.Column="3" Style="{StaticResource TextBlockDescriptionStyle}">Chapter</TextBlock>
-        <TextBlock Grid.Row="2" Grid.Column="4" Style="{StaticResource TextBlockDescriptionStyle}">Form class</TextBlock>
+        <TextBlock Grid.Row="3" Grid.Column="1" VerticalAlignment="Center" Style="{StaticResource HeaderTextBlockStyle}" Height="21" Margin="0,1,0,16">Subject area:</TextBlock>
+        <TextBlock Grid.Row="2" Grid.Column="2" Style="{StaticResource DescriptionTextBlockStyle}">Book</TextBlock>
+        <TextBlock Grid.Row="2" Grid.Column="3" Style="{StaticResource DescriptionTextBlockStyle}">Chapter</TextBlock>
+        <TextBlock Grid.Row="2" Grid.Column="4" Style="{StaticResource DescriptionTextBlockStyle}">Form class</TextBlock>
         <!--<TextBlock Grid.Row="1" Grid.Column="5">Set</TextBlock>-->
-        
+
         <!--Row 3-->
-        <ComboBox ItemsSource="{Binding BookOption}" SelectedItem="{Binding SelectedBook}" Grid.Row="3" Grid.Column="2" Style="{StaticResource PlaySettingsComboBoxStyle}"></ComboBox>
-        <ComboBox x:Name="ChapterComboBox" ItemsSource="{Binding ChapterOption}" SelectedItem="{Binding SelectedChapter}" Grid.Row="3" Grid.Column="3" Style="{StaticResource PlaySettingsComboBoxStyle}"></ComboBox>
+        <ComboBox x:Name="BookComboBox" ItemsSource="{Binding BookOption}" SelectedItem="{Binding SelectedBook}" Grid.Row="3" Grid.Column="2" Style="{StaticResource PlaySettingsComboBoxStyle}"></ComboBox>
+        <ComboBox ItemsSource="{Binding ChapterOption}" SelectedItem="{Binding SelectedChapter}" Grid.Row="3" Grid.Column="3" Style="{StaticResource PlaySettingsComboBoxStyle}"></ComboBox>
         <ComboBox ItemsSource="{Binding FormClassOption}" SelectedItem="{Binding SelectedFormClass}" Grid.Row="3" Grid.Column="4" Style="{StaticResource PlaySettingsComboBoxStyle}"></ComboBox>
-        
+
         <!--Row 4-->
-        <TextBlock Grid.Row="4" Grid.Column="1" Grid.RowSpan="2" Style="{StaticResource TextBlockHeaderStyle}" VerticalAlignment="Center">Scoring system:</TextBlock>
-        <TextBlock Grid.Row="4" Grid.Column="2" Style="{StaticResource TextBlockDescriptionStyle}">Points to pass</TextBlock>
-        <TextBlock Grid.Row="4" Grid.Column="3" Style="{StaticResource TextBlockDescriptionStyle}">Points for good anwser</TextBlock>
-        <TextBlock Grid.Row="4" Grid.Column="4" Style="{StaticResource TextBlockDescriptionStyle}">Points for bad anwser</TextBlock>
-        
+        <TextBlock Grid.Row="5" Grid.Column="1" Style="{StaticResource HeaderTextBlockStyle}" VerticalAlignment="Center" Height="21" Margin="0,1,0,16">Scoring system:</TextBlock>
+        <TextBlock Grid.Row="4" Grid.Column="2" Style="{StaticResource DescriptionTextBlockStyle}">Points to pass</TextBlock>
+        <TextBlock Grid.Row="4" Grid.Column="3" Style="{StaticResource DescriptionTextBlockStyle}">Points for good anwser</TextBlock>
+        <TextBlock Grid.Row="4" Grid.Column="4" Style="{StaticResource DescriptionTextBlockStyle}">Points for bad anwser</TextBlock>
+
 
         <!--Row 5-->
         <TextBox Grid.Row="5" Grid.Column="2" x:Name="PointsToPass" Style="{StaticResource NumericInputTextBoxStyle}"></TextBox>
         <TextBox Grid.Row="5" Grid.Column="3" x:Name="PointsPerGoodAnwser" Style="{StaticResource NumericInputTextBoxStyle}"></TextBox>
         <TextBox Grid.Row="5" Grid.Column="4" x:Name="PointsPerBadAnwser" Style="{StaticResource NumericInputTextBoxStyle}"></TextBox>
-        
+
         <!--Row 6-->
-        <TextBlock Grid.Row="6" Grid.Column="1" Grid.RowSpan="2" Style="{StaticResource TextBlockHeaderStyle}" VerticalAlignment="Center">Time challange:</TextBlock>
-        <TextBlock Grid.Row="6" Grid.Column="2" Style="{StaticResource TextBlockDescriptionStyle}">Activate</TextBlock>
-        <TextBlock Grid.Row="6" Grid.Column="3" Style="{StaticResource TextBlockDescriptionStyle}">Time per question</TextBlock>
-        <TextBlock Grid.Row="6" Grid.Column="4" Style="{StaticResource TextBlockDescriptionStyle}">Time per game</TextBlock>
+        <TextBlock Grid.Row="7" Grid.Column="1" Style="{StaticResource HeaderTextBlockStyle}" VerticalAlignment="Center" Height="21" Margin="0,1,0,16">Time challange:</TextBlock>
+        <TextBlock Grid.Row="6" Grid.Column="2" Style="{StaticResource DescriptionTextBlockStyle}">Activate</TextBlock>
+        <TextBlock Grid.Row="6" Grid.Column="3" Style="{StaticResource DescriptionTextBlockStyle}">Time per question</TextBlock>
+        <TextBlock Grid.Row="6" Grid.Column="4" Style="{StaticResource DescriptionTextBlockStyle}">Duration of game</TextBlock>
 
         <!--Row 7-->
-        <CheckBox Grid.Row="7" Grid.Column="2" IsChecked="{Binding EnableTimeChallange}" Content="Time challange mode" Style="{StaticResource SimpleCheckBoxStyle}"></CheckBox>
-        <TextBox Grid.Row="7" Grid.Column="3" x:Name="TimePerQuestion" Style="{StaticResource NumericInputTextBoxStyle}"></TextBox>
-        <TextBox Grid.Row="7" Grid.Column="4" x:Name="TimePerGame" Style="{StaticResource NumericInputTextBoxStyle}"></TextBox>
-        
+        <CheckBox Grid.Row="7" Grid.Column="2" IsChecked="{Binding EnableTimeChallange, Mode=OneWayToSource}" Content="Time challange mode" Style="{StaticResource SimpleCheckBoxStyle}" Height="14" Margin="14,12,42,12" Width="134"></CheckBox>
+        <TextBox Grid.Row="7" Grid.Column="3" IsEnabled="{Binding EnableTimeChallange, Mode=OneWay}" x:Name="TimePerQuestion" Style="{StaticResource NumericInputTextBoxStyle}"></TextBox>
+        <TextBox Grid.Row="7" Grid.Column="4" IsEnabled="{Binding EnableTimeChallange, Mode=OneWay}" x:Name="TimePerGame" Style="{StaticResource NumericInputTextBoxStyle}"></TextBox>
+
         <!--Row 8-->
-        <Button Grid.Row="8" Grid.Column="1" x:Name="StartButton" Grid.ColumnSpan="2" MaxWidth="150">Apply settings and play</Button>
-        <Button Grid.Row="8" Grid.Column="3" x:Name="ResetButton" Grid.ColumnSpan="2" MaxWidth="150">Reset settings</Button>
+        <Border Grid.Row="3" Grid.Column="5" Padding="10" Margin="10" BorderThickness="4" BorderBrush="Black" Grid.RowSpan="5">
+            <Button  x:Name="StartButton"  Margin="10" Background="ForestGreen" FontFamily="Consolas" FontSize="30"  Padding="5">Play</Button>
+        </Border>
+
+        <!--Row 9-->
+        <TextBlock x:Name="ErrorList" Grid.Row="9" Grid.Column="1" Grid.ColumnSpan="2" Foreground="Red" TextWrapping="Wrap" MaxWidth="340"></TextBlock>
+        <StackPanel Orientation="Vertical" Grid.Row="9" Grid.Column="3" Grid.ColumnSpan="3" Background="LightSeaGreen">
+            <TextBlock TextAlignment="Center" Padding="5" HorizontalAlignment="Center" FontWeight="Bold" FontFamily="Consolas" FontSize="30">==========RULES==========</TextBlock>
+            <TextBlock x:Name="Rules" Padding="5" TextAlignment="Justify" HorizontalAlignment="Stretch" FontFamily="Consolas" FontSize="18" TextWrapping="WrapWithOverflow"></TextBlock>
+        </StackPanel>
     </Grid>
 </UserControl>

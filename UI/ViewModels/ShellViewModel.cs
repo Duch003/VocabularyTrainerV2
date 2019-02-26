@@ -10,7 +10,7 @@ namespace UI.ViewModels
 
         public ShellViewModel()
         {
-            repo = new FakeRepository();
+            repo = new Repository();
         }
 
         public void Play()

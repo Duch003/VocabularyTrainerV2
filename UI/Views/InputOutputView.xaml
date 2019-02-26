@@ -16,8 +16,10 @@
             <RowDefinition Height="Auto"></RowDefinition>
             <RowDefinition Height="Auto"></RowDefinition>
             <RowDefinition Height="Auto"></RowDefinition>
-            <RowDefinition Height="Auto"></RowDefinition>
             <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
             <RowDefinition Height="20"></RowDefinition>
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
@@ -25,43 +27,87 @@
             <ColumnDefinition Width="Auto"></ColumnDefinition>
             <ColumnDefinition Width="Auto"></ColumnDefinition>
             <ColumnDefinition Width="*"></ColumnDefinition>
+
+            
             <ColumnDefinition Width="20"></ColumnDefinition>
         </Grid.ColumnDefinitions>
         
         <!--Row 1-->
-        <TextBlock Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="3" Style="{StaticResource TextBlockHeaderStyle}">Output operations</TextBlock>
-        
+        <TextBlock Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" Style="{StaticResource HeaderTextBlockStyle}">Save records in external file</TextBlock>
+
         <!--Row 2-->
-        <TextBlock Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="3" Style="{StaticResource TextBlockDescriptionStyle}">Select the file where You want to save all records from database. Records can be used on other computer where database can't be created.</TextBlock>
+        <Button x:Name="SelectPathToSave" Grid.Row="2" Grid.Column="1" Style="{StaticResource IOWindowButtonStyle}">Select path</Button>
+        <TextBlock x:Name="SelectedPathToSave" Grid.Row="2" Grid.Column="2" Grid.RowSpan="2" TextWrapping="Wrap" Padding="10" MinWidth="450" FontWeight="Bold" Foreground="Blue"></TextBlock>
 
         <!--Row 3-->
-        <Button x:Name="SelectPathToSave" Grid.Row="3" Grid.Column="1" Style="{StaticResource IOWindowButtonStyle}">Select path</Button>
-        <TextBlock x:Name="SelectedPathToSave" Grid.Row="3" Grid.Column="2" TextWrapping="Wrap" MinWidth="450"></TextBlock>
-        <Button x:Name="SaveRecords" Grid.Row="3" Grid.Column="3" Style="{StaticResource IOWindowButtonStyle}">Save records</Button>
+        <Button x:Name="SaveRecords" Grid.Row="3" Grid.Column="1" Style="{StaticResource IOWindowButtonStyle}">Save records</Button>
 
         <!--Row 4-->
-        <TextBlock Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="3" Style="{StaticResource TextBlockHeaderStyle}">Input operations</TextBlock>
+        <TextBlock Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2" Style="{StaticResource HeaderTextBlockStyle}">Load records from external file</TextBlock>
 
         <!--Row 5-->
-        <TextBlock Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="3" Style="{StaticResource TextBlockDescriptionStyle}">Choose the database .xml file and load records to use them locally or to load new records to database. All records will appear in table below.</TextBlock>
+        <Button x:Name="SelectPathToLoad" Grid.Row="5" Grid.Column="1" Style="{StaticResource IOWindowButtonStyle}">Select path</Button>
+        <TextBlock x:Name="SelectedPathToLoad" Grid.Row="5" Grid.Column="2" Grid.RowSpan="2" Padding="10" TextWrapping="Wrap" MinWidth="450" FontWeight="Bold" Foreground="Blue"></TextBlock>
 
         <!--Row 6-->
-        <Button x:Name="SelectPathToLoad" Grid.Row="6" Grid.Column="1" Style="{StaticResource IOWindowButtonStyle}">Select path</Button>
-        <TextBlock x:Name="SelectedPathToLoad" Grid.Row="6" Grid.Column="2" TextWrapping="Wrap" MinWidth="450"></TextBlock>
-        <Button x:Name="LoadRecords" Grid.Row="6" Grid.Column="3" Style="{StaticResource IOWindowButtonStyle}">Load records</Button>
+        <Button x:Name="LoadRecords" Grid.Row="6" Grid.Column="1" Style="{StaticResource IOWindowButtonStyle}">Load records</Button>
         
         <!--Row 7-->
-        <DataGrid x:Name="RepositoryView" Grid.Row="7" Grid.Column="1" Grid.ColumnSpan="2" Grid.RowSpan="3" Style="{StaticResource DataGridDefaultStyle}">
+        <DataGrid x:Name="RepositoryView" HorizontalAlignment="Stretch" Grid.Row="7" Grid.Column="1" Grid.ColumnSpan="3" Grid.RowSpan="3" Style="{StaticResource DataGridDefaultStyle}">
             <DataGrid.Columns>
-                <DataGridTextColumn Header="Polish" Binding="{Binding Path=Polish}"></DataGridTextColumn>
-                <DataGridTextColumn Header="English" Binding="{Binding Path=English}"></DataGridTextColumn>
-                <DataGridTextColumn Header="Book" Binding="{Binding Path=Book}"></DataGridTextColumn>
-                <DataGridTextColumn Header="Form class" Binding="{Binding Path=FormClass}"></DataGridTextColumn>
-                <DataGridTextColumn Header="Chapter" Binding="{Binding Path=Chapter}"></DataGridTextColumn>
-                <!--<DataGridTextColumn Header="Set" Binding="{Binding Path=Set}"></DataGridTextColumn>-->
+                <DataGridTextColumn Header="Polish" Binding="{Binding Path=Polish}" MaxWidth="350">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                            <Setter Property="TextBlock.TextAlignment" Value="Center"/>
+                            <Setter Property="TextBlock.VerticalAlignment" Value="Center"/>
+                            <Setter Property="TextBlock.Padding" Value="7"></Setter>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="English" Binding="{Binding Path=English}" MaxWidth="350">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                            <Setter Property="TextBlock.TextAlignment" Value="Center"/>
+                            <Setter Property="TextBlock.VerticalAlignment" Value="Center"/>
+                            <Setter Property="TextBlock.Padding" Value="7"></Setter>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Book" Binding="{Binding Path=Book}" MaxWidth="200">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                            <Setter Property="TextBlock.TextAlignment" Value="Center"/>
+                            <Setter Property="TextBlock.VerticalAlignment" Value="Center"/>
+                            <Setter Property="TextBlock.Padding" Value="7"></Setter>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Form class" Binding="{Binding Path=FormClass}" MaxWidth="200">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                            <Setter Property="TextBlock.TextAlignment" Value="Center"/>
+                            <Setter Property="TextBlock.VerticalAlignment" Value="Center"/>
+                            <Setter Property="TextBlock.Padding" Value="7"></Setter>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Chapter" Binding="{Binding Path=Chapter}" MaxWidth="200">
+                    <DataGridTextColumn.ElementStyle>
+                        <Style>
+                            <Setter Property="TextBlock.TextWrapping" Value="Wrap" />
+                            <Setter Property="TextBlock.TextAlignment" Value="Center"/>
+                            <Setter Property="TextBlock.VerticalAlignment" Value="Center"/>
+                            <Setter Property="TextBlock.Padding" Value="7"></Setter>
+                        </Style>
+                    </DataGridTextColumn.ElementStyle>
+                </DataGridTextColumn>
             </DataGrid.Columns>
         </DataGrid>
-        <Button x:Name="LoadIntoDatabase" Grid.Row="7" Grid.Column="3" Style="{StaticResource IOWindowButtonStyle}">Move all records</Button>
-        <Button x:Name="ClearTable" Grid.Row="8" Grid.Column="3" Style="{StaticResource IOWindowButtonStyle}">Clear table</Button>
+        <Button x:Name="LoadIntoDatabase" Grid.Row="10" Grid.Column="1" Style="{StaticResource IOWindowButtonStyle}">Move all records</Button>
+        <Button x:Name="ClearTable" Grid.Row="10" Grid.Column="2" Style="{StaticResource IOWindowButtonStyle}">Clear table</Button>
     </Grid>
 </UserControl>
